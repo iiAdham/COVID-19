@@ -1,0 +1,406 @@
+@media (max-width: 1440px){
+    .container .home-page header nav .row ul li a{
+        font-size: 13px;
+    }
+}
+@media (max-width: 1382px){
+    .container {
+        width:95%;
+    }
+    main .sec7 .container{
+        width: 95%;
+    }
+}
+@media (max-width:1030px){
+    .container .home-page header nav .row ul li{
+        display: none;
+    }
+    .container .home-page header nav .row ul .menu{
+        display: inline;
+    }
+    .container .hero{
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .container .hero .container .hero .hero-img{
+        width: 100%;
+    }
+    .container .hero .hero-caption{
+        text-align: center;
+        width: 100%;
+    }
+    .container .hero .hero-img {
+        width:90%;
+    }
+    .container .hero .hero-caption .btns-caption .child{
+        width: 100%;
+    }
+    main .sec1 .container .page2{
+        flex-wrap: wrap;
+    }
+    main .sec1 .container .page2 .page2-details{
+        width: 100%;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    main .sec1 .container .page2 .page2-links{
+        width: 50%;
+        text-align: center;
+        margin: auto;
+    }
+    main .sec2 .container .page3 .page-3-details{
+        flex-wrap: wrap;
+    }
+    main .sec2 .container .page3 .page-3-details .child{
+        width: 55%;
+        text-align: center;
+        margin: 20px auto;
+    }
+    main .sec3 .container .page4 .page-4-details{
+        flex-wrap: wrap;
+    }
+    main .sec3 .container .page4 .page-4-details .child{
+        width: 55%;
+        text-align: center;
+        margin: auto;
+    }
+    main .sec3 .container .page-4-btns{
+        flex-wrap: wrap;
+    }
+    main .sec3 .container .page-4-btns .LHS{
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+    main .sec3 .container .page-4-btns .LHS p{
+        margin: 30px 0;
+    }
+    main .sec3 .container .page-4-btns .RHS{
+        margin: auto;
+    }
+    main .sec3 .container .page-4-btns .LHS i{
+        margin-right: 0;
+    }
+    main .sec4 .container .page5 .page-5-cards{
+        flex-wrap: wrap;
+    }
+    main .sec4 .container .page5 .page-5-cards .child{
+        width: 55%;
+        margin: auto;
+        margin-bottom: 40px;
+    }
+    main .sec4 .container .page-5-steps .page-5-s{
+        flex-wrap: wrap;   
+    }
+    main .sec4 .container .page-5-steps .page-5-s .page-5-steps-details{
+        width: 100%;
+    }
+    main .sec4 .container .page-5-steps .page-5-s .page-5-img{
+        width: 50%;
+        margin: auto;
+    }
+    main .sec4 .container .page-5-wash .wash-steps{
+        flex-wrap: wrap;
+    }
+    main .sec4 .container .page-5-wash .wash-steps .child{
+        width: 30%;
+    }
+    main .sec4 .container .page-5-wash .wash-steps .child img{
+        width: 75%;
+    }
+    main .sec5 .container .page6{
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    main .sec5 .container .page6 .LHS{
+        width: 90%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    main .sec5 .container .page6 .RHS{
+        width: 90%;
+    }
+    main .sec6 .container .page7 .dos{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    main .sec6 .container .page7 .dos .dos-left{
+        width: 55%;
+    }
+    main .sec6 .container .page7 .dos .dos-mid{
+        width: 50%;
+    }
+    main .sec6 .container .page7 .dos .dos-right{
+        width: 55%;
+    }
+    main .sec7 .container .page8 .qa-list{
+        flex-wrap: wrap;
+    }
+    main .sec7 .container .page8 .qa-list .LHS{
+        width: 60%;
+    }
+    main .sec7 .container .page8 .qa-list .RHS{
+        width: 80%;
+        height: 500px;
+    }
+    main .sec8 .container .page9 .page9-cards{
+        flex-wrap: wrap;
+    }
+    main .sec8 .container .page9 .page9-cards .child{
+        width: 60%;
+        margin: 10px auto;
+    }
+    main .sec8 .container .page9 .page9-cards .child .img img{
+        width: 75%;
+    }
+}
+@media (max-width:900px){
+    main .sec5 .container .page6 .LHS h2{
+        font-size: 35px;
+    }
+    main .sec7 .container .page8 .qa-list .LHS{
+        width: 70%;
+    }
+    main .sec7 .container .page8 .qa-list .RHS{
+        width: 90%;
+    }
+}
+@media (max-width:740px){
+    main .sec1 .container .page2 .page2-links{
+        width: 80%;
+    }
+    main .sec2 .container .page3 .page-3-details .child{
+        width: 70%;
+    }
+    main .sec3 .container .page4 .page-4-details .child{
+        width: 70%;
+    }
+    main .sec4 .container .page5 .page-5-cards .child{
+        width: 70%;
+    }
+    main .sec5 .container .page6 .LHS h2{
+        font-size: 30px;
+    }
+    main .sec6 .container .page7 .dos .dos-mid{
+        width: 65%;
+    }
+    main .sec7 .container .page8 .page8-caption h3{
+        font-size: 35px;
+    }
+    main .sec7 .container .page8 .qa-list .LHS{
+        width: 80%;
+    }
+    main .sec7 .container .page8 .qa-list .RHS{
+        width: 95%;
+    }
+    main .sec7 .container .page8 .qa-list .RHS ul li a h6,
+    main .sec7 .container .page8 .qa-list .LHS ul li a h6{
+        font-size: 14px;
+    }
+    footer .bg .footer-top{
+        flex-wrap: wrap;
+    }
+    footer .bg .footer-top .child1{
+        width: 50%;
+    }
+    footer .bg .footer-top .child{
+        width: 50%;
+    }
+}
+@media (max-width:600px){
+    main .sec1 .container .page2 .page2-links{
+        width: 100%;
+    }
+    main .sec2 .container .page3 .page-3-details .child{
+        width: 85%;
+    }
+    main .sec3 .container .page4 .page-4-details .child{
+        width: 85%;
+    }
+    main .sec3 .container .page4 .page-4-content h5{
+        font-size: 13px;
+    }
+    main .sec3 .container .page4 .page-4-content h3{
+        font-size: 23px;
+    }
+    main .sec4 .container .page5 .page-5-content h5{
+        font-size: 15px;
+    }
+    main .sec4 .container .page5 .page-5-content h3{
+        font-size: 25px;
+    }
+    main .sec4 .container .page5 .page-5-cards .child{
+        width: 85%;
+    }
+    main .sec4 .container .page-5-steps h2{
+        text-align: center;
+    }
+    main .sec4 .container .page-5-wash .wash-steps .child{
+        width: 35%;
+    }
+    main .sec4 .container .page-5-wash .wash-caption h2{
+        font-size: 30px;
+    }
+    main .sec5 .container .page6 .LHS h2{
+        font-size: 24px;
+    }
+    main .sec5 .container .page6 .RHS{
+        padding: 23px;
+    }
+    main .sec5 .container{
+        width: 100%;
+    }
+    main .sec6 .container .page7 .dos .dos-left .dont{
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column-reverse;
+    }
+    main .sec6 .container .page7 .dos .dos-left .dont p,
+    main .sec6 .container .page7 .dos .dos-right .do p{
+        padding: 10px 0 20px 0;
+    }
+    main .sec6 .container .page7 .dos .dos-left .dont i,
+    main .sec6 .container .page7 .dos .dos-right .do i{
+        padding-top: 8px;
+    }
+    main .sec6 .container .page7 .dos .dos-right .do{
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    main .sec8 .container .page9 .page9-cards .child{
+        width: 100%;
+    }
+    main .sec8 .container .page9 .page9-cards .child .img img{
+        width: 70%;
+    }
+}
+@media (max-width:480px){
+    main .sec3 .container .page4 .page-4-details .child{
+        padding: 25px;
+    }
+    main .sec3 .container .page4 .page-4-details .child p{
+        font-size: 14px;
+    }
+    main .sec4 .container .page-5-wash .wash-steps .child{
+        width: 100%;
+        margin: 20px auto;
+    }
+    main .sec4 .container .page-5-wash .wash-steps .child img{
+        width: 50%;
+    }
+    main .sec5 .container .page6 .LHS h2{
+        font-size: 21px;
+    }
+    main .sec5 .container .page6 .LHS h5{
+        font-size: 18px;
+    }
+    main .sec7 .container .page8 .page8-caption h3{
+        font-size: 30px;
+    }
+    main .sec7 .container .page8 .page8-caption h5{
+        font-size: 16px;
+    }
+    main .sec7 .container .page8 .qa-list .LHS{
+        width: 90%;
+    }
+    main .sec7 .container .page8 .qa-list .RHS{
+        width: 99%;
+    }
+}
+@media (max-width:430px){
+    .container .hero .hero-caption .caption-details .hero-h #hero-h{
+        font-size: 60px;
+    }
+    .container .hero .hero-caption .caption-details .hero-h .hero-h-cap h3{
+        font-size: 33px;
+    }
+    .container .hero .hero-caption .caption-details .hero-h .hero-h-cap h4{
+        font-size: 20px;
+    }
+    .container .hero .hero-caption .caption-details .btns {
+        flex-wrap: wrap;
+    }
+    .container .hero .hero-caption .caption-details .btns button,
+    .container .hero .hero-caption .caption-details .btns a{
+        width: 60%;
+    }
+    .container .hero .hero-caption .caption-details .btns a{
+        margin-top: 20px;
+    }
+    main .sec2 .container .page3 .page-3-details .child{
+        width: 90%;
+    }
+    main .sec2 .container .page3 .page-3-btn{
+        width: 100%;
+    }
+    main .sec2 .container .page3 .page-3-btn button{
+        font-size: 15px;
+    }
+    main .sec3 .container .page-4-btns .RHS button{
+        font-size: 15px;
+    }
+    main .sec4 .container .page-5-btns button{
+        font-size: 15px;
+    }
+    main .sec4 .container .page-5-btns a{
+        font-size: 12px;
+    }
+    main .sec4 .container .page-5-wash .wash-caption h2{
+        font-size: 25px;
+    }
+    main .sec6 .container .page7 .dos .dos-mid{
+        width: 75%;
+    }
+    footer .bg .footer-top .child1{
+        width: 100%;
+        text-align: center;
+    }
+    footer .bg .footer-top .child{
+        width: 100%;
+        text-align: center;
+    }
+    footer .bg .footer-bot p{
+        text-align: center;
+    }
+}
+@media (max-width: 400px){
+    main .sec7 .container .page8 .page8-caption h3{
+        font-size: 25px;
+    }
+    main .sec7 .container .page8 .page8-caption h5{
+        font-size: 14px;
+    } 
+}
+@media (max-width:350px){
+    main .sec4 .container .page-5-wash .wash-caption h2{
+        font-size: 20px;
+    }
+    main .sec4 .container .page-5-wash .wash-caption a{
+        font-size: 14px;
+    }
+    main .sec5 .container .page6 .LHS p{
+        font-size: 14px;
+    }
+}
+@media (max-width:335px){
+    main .sec2 .container .page3 .page-3-btn button{
+        font-size: 13px;
+    }
+    main .sec4 .container .page-5-btns button i{
+        margin-left: 10px;
+    }
+    main .sec7 .container .page8 .page8-caption h3{
+        font-size: 23px;
+    }
+    main .sec7 .container .page8 .page8-caption h5{
+        font-size: 12px;
+    } 
+}
+@media (max-width:300px){
+    *{
+        display: none;
+    }
+}
