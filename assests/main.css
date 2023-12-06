@@ -693,6 +693,9 @@ main .sec7 .container .page8 .qa-list .RHS ul li a i,
 main .sec7 .container .page8 .qa-list .LHS ul li a i{
     width: auto;
 }
+main .sec7 .container .page8 .qa-list .RHS ul{
+    background-color: rgb(247, 250, 254);
+}
 main .sec7 .container .page8 .qa-list .RHS{
     width: 60%;
     border: 2px solid rgb(231,232,255);
@@ -704,7 +707,6 @@ main .sec7 .container .page8 .qa-list .RHS ul li{
     padding: 20px;
 }
 main .sec7 .container .page8 .qa-list .RHS ul li a h6{
-    background-color: rgb(247, 250, 254);
     font-size: 16px;
     width: 90%;
 }
